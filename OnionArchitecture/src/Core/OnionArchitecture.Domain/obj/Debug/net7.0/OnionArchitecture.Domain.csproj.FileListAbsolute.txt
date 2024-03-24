@@ -1,0 +1,11 @@
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Domain\bin\Debug\net7.0\OnionArchitecture.Domain.deps.json
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Domain\bin\Debug\net7.0\OnionArchitecture.Domain.dll
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Domain\bin\Debug\net7.0\OnionArchitecture.Domain.pdb
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Domain\obj\Debug\net7.0\OnionArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Domain\obj\Debug\net7.0\OnionArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Domain\obj\Debug\net7.0\OnionArchitecture.Domain.AssemblyInfo.cs
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Domain\obj\Debug\net7.0\OnionArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Domain\obj\Debug\net7.0\OnionArchitecture.Domain.dll
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Domain\obj\Debug\net7.0\refint\OnionArchitecture.Domain.dll
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Domain\obj\Debug\net7.0\OnionArchitecture.Domain.pdb
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Domain\obj\Debug\net7.0\ref\OnionArchitecture.Domain.dll

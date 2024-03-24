@@ -1,0 +1,15 @@
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\bin\Debug\net7.0\OnionArchitecture.Application.deps.json
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\bin\Debug\net7.0\OnionArchitecture.Application.dll
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\bin\Debug\net7.0\OnionArchitecture.Application.pdb
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\bin\Debug\net7.0\OnionArchitecture.Domain.dll
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\bin\Debug\net7.0\OnionArchitecture.Domain.pdb
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\obj\Debug\net7.0\OnionArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\obj\Debug\net7.0\OnionArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\obj\Debug\net7.0\OnionArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\obj\Debug\net7.0\OnionArchitecture.Application.AssemblyInfo.cs
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\obj\Debug\net7.0\OnionArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\obj\Debug\net7.0\OnionArchitecture.Application.csproj.CopyComplete
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\obj\Debug\net7.0\OnionArchitecture.Application.dll
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\obj\Debug\net7.0\refint\OnionArchitecture.Application.dll
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\obj\Debug\net7.0\OnionArchitecture.Application.pdb
+C:\Users\yunus\OneDrive\Masaüstü\Project V3\OnionArchitecture\src\Core\OnionArchitecture.Application\obj\Debug\net7.0\ref\OnionArchitecture.Application.dll
